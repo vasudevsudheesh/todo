@@ -1,0 +1,11 @@
+.banner{
+    background-color:darkslateblue;
+    width:100%;
+    height:200px;
+}
+.banner-text{
+    margin-top:100px;
+    margin-left:590px;
+    position:absolute;
+    transform:transform;
+}
